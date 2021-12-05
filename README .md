@@ -1,4 +1,4 @@
-# ** Team Project ( Camera App ) **  
+# Team Project ( Camera App )   
 
 ***
 ***
@@ -7,8 +7,8 @@
 
 ***
 
-### ** we build the app programmatically whithout Storyboard. **
-### ** and meet all project requirment: **
+### we build the app programmatically whithout Storyboard. 
+###  and meet all project requirment: 
 ##### ~~ using Launch Screen ~~
 ##### ~~ hid status bar ~~
 ##### ~~ login screen & show the UserName after login ~~
@@ -16,7 +16,7 @@
 ##### ~~ adding app icon ~~
 
 
-### ** additional features: **
+###  additional features: 
 
 #### - Animate Launch screen.
 #### - using UserDefault to save User login information.
@@ -32,6 +32,10 @@
 
 
 
+# Problems that faced us:
 
-
+ #### - download JASON file.
+#### - First view was shown with Launch Screen view.
+#### - connecting the Application with an iphone device.
+#### - Saving photos to the library
 
